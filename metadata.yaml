@@ -1,0 +1,29 @@
+_repo: Harcz-az-alkotmanyert_67290
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eötvös, Károly
+    alias: Eotvos, Karoly
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '52119'
+    url: http://www.gutenberg.org/2009/agents/52119
+    wikipedia: https://hu.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_K%C3%A1roly
+description: ''
+gutenberg_issued: '2022-01-31'
+identifiers:
+  gutenberg: '67290'
+language: hu
+pgterms:marc905: 20220128053216etvs
+pgterms:marc906: '1909'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Révai,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Harcz az alkotmányért
+url: http://www.gutenberg.org/ebooks/67290
